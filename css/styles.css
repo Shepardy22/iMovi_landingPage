@@ -1,9 +1,10 @@
 * {
     font-family: 'Lato', sans-serif;
+   
 }
 
 .bg-primary-color {
-    background-color: #fff;
+    background-color: #DCDCDC;
 }
 
 .bg-secondary-color {
@@ -132,11 +133,13 @@
 /* MINI BANNERS */
 #mini-banners {
     margin-bottom: 4em;
+    
 }
 
 #mini-banners .card {
     padding: 2em 0.3em;
     border-radius: 0;
+    background-color: #ece8e2;
 }
 
 #mini-banners i {
